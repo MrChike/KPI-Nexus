@@ -1,0 +1,7 @@
+site_name: KPINexus
+site_dir: site # Path to desired static folder
+site_url: http://127.0.0.1:8000/docs
+theme: readthedocs
+color_mode: auto
+user_color_mode_toggle: color_mode
+repo_url: https://github.com/MrChike/KPI-Nexus
